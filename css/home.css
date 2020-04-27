@@ -1,0 +1,33 @@
+body{
+background: url("../images/gymimage1.jpg")
+    no-repeat center center fixed;
+    background-size: cover;
+    opacity: 0.6;
+}
+div{
+    font-family: 'Anton', sans-serif;
+    background-color: orangered;
+    width: 60%;
+    margin: 350px auto;
+    text-align: center;
+    border-radius: 25px;
+    
+    
+} 
+button{
+    background-color: black;
+    border-radius: 25px;
+    padding: 10px;
+    color: white;
+    
+    
+}
+i{
+    color: white;
+    opacity: 100;
+        
+}
+
+
+
+
